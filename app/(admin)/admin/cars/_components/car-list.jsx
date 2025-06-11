@@ -218,8 +218,8 @@ export const CarsList = () => {
                             <Image
                               src={car.images[0]}
                               alt={`${car.make} ${car.model}`}
-                              height={40}
-                              width={40}
+                              height={4}
+                              width={4}
                               className="w-full h-full object-cover"
                               priority
                             />
