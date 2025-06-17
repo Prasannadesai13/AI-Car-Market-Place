@@ -2,7 +2,7 @@
 const nextConfig = {
     experimental: {
         serverComponentsHmrCache: false,
-        nodeMiddleware: true, // defaults to true
+        // defaults to true
     },
 
     images: {
